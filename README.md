@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm thatflow</h1>
 <h3 align="center">A passionate Java developer from Italy</h3>
 
-- 🔭 I’m currently working on **network**
+- 🔭 I’m currently working on a **network**
 
 - 🌱 I’m currently learning in free time **C++**
 
