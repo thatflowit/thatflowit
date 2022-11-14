@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm thatflow</h1>
 <h3 align="center">A passionate Java developer from Italy</h3>
 
-- 🔭 I’m currently working on **AresNetwork**
+- 🔭 I’m currently working on **network**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning in free time **C++**
 
 - 📫 How to reach me **thatflowit@gmail.com** or **thatflowit#1386**
 
